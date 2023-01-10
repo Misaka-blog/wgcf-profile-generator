@@ -4,7 +4,7 @@
 
 ## Replit 项目地址
 
-https://replit.com/@misakablog/wgcf-profile-generator
+https://replit.com/@misaka-blog/wgcf-profile-generator
 
 ## 鸣谢
 
