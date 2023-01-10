@@ -8,8 +8,8 @@ https://replit.com/@misakablog/wgcf-profile-generator
 
 ## 鸣谢
 
-Replit：https://replit.com/
-Wgcf项目：https://github.com/ViRb3/wgcf
+* Replit：https://replit.com/
+* Wgcf项目：https://github.com/ViRb3/wgcf
 
 ## 赞助
 
